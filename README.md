@@ -28,3 +28,7 @@ about the current recursive call.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
 your answer to this markdown file.
+
+## Answer
+
+I'm not super sure about my invarient but the one I came up with is that my array has every value of the fibonacci sequence up to fib(n - 1).
